@@ -16,3 +16,5 @@ an example of real rough surface to investigate
 * Overlaying the coloured images of the subsurface and a particular weight map allows the subsurface map to be highlighted.![Sa & subsurfaces](https://github.com/alex1kovalev/KANN_surface/blob/main/Output%20Data/U_Matrix%20for%20Sa%20of%20subimages.png)
 * the backward is carried out to identify the original location of each surface highlighted by a given roughness mask.![Surface & mask](https://github.com/alex1kovalev/KANN_surface/blob/main/Output%20Data/Rough%20surface%20with%20a%20colored%20mask%20of%20Sa.png)
 
+## remark
+...there are some bugs to be fixed...)
